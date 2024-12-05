@@ -1,0 +1,1 @@
+[![pykick configuration](https://github.com/user-attachments/assets/403fef11-be9e-4877-b745-b693defb4fd0)](https://github.com/KaminoU/assets/blob/main/pykick/01_pykick_config.mp4https://github.com/user-attachments/assets/403fef11-be9e-4877-b745-b693defb4fd0)
